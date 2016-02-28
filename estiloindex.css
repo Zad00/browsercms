@@ -1,0 +1,162 @@
+* {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20px;
+	color: #fff;
+}
+
+body {
+	overflow-x: hidden;
+	background-image: url('http://yuup.in/content/skin/Yuup/assets/images/bg_yuup.png');
+}
+
+input {
+	width: 180px;
+	height: 40px;
+	padding: 5px;
+	border-radius: 2px;
+	color: #333333;
+}
+
+b {
+	color: #333333;
+	font-size: 17px; 
+}
+
+#menu-login {
+	background: #171717;
+	width: 100%;
+	height: 70px;
+}
+
+#login {
+	margin-top: 15px;
+	float: right;
+	margin-right: 200px;
+}
+
+#logo {
+	width: 167px;
+	height: 41px;
+	margin-left: 150px;
+	margin-top: 15px;
+	float: left;
+	background-image: url('../logo.png');
+}
+
+#registro {
+	float: right;
+	margin-right: 300px;
+	margin-top: 70px;
+}
+
+#imagem-index {
+	width: 600px;
+	height: 573px;
+	position: absolute;
+	top: -40px;
+	left: 40px;
+	background-image: url('../rosto.png');
+}
+
+#footer {
+	width: 90%;
+	height: 40px;
+	position: fixed;
+	left: 60px;
+	bottom: 40px;
+	border-top: 1px dashed #999999;
+}
+
+#pagina-registro {
+	width: 400px;
+	height: 200px;
+	margin-top: 20px;
+}
+
+#botao-registro {
+	background: #006699;
+	color: #fff;
+	margin-top: 15px;
+}
+
+#botao-registro:hover {
+	background: #0066ff;
+}
+
+#termo-de-uso {
+	background: #006699;
+	color: #fff;
+	margin-top: 15px;
+}
+
+#termo-de-uso:hover{
+	background: #0066ff;
+}
+
+.botao-login {
+	background: #006699;
+	margin-left: 20px;
+	color: #fff;
+}
+
+.botao-login:hover {
+	background: #0066ff;
+}
+
+.titulo-info {
+	color: #333333;
+	font-size: 35px;
+}
+
+.texto-info {
+	color: #333333;
+	font-size: 18px;
+}
+
+.texto-footer {
+	float: left;
+	margin-top: 10px;
+	font-size: 16px;
+	color: #999999;
+}
+
+.navegadores {
+	float: right;
+	margin-top: 10px;
+	font-size: 16px;
+	color: #999999;
+}
+
+.escondido {
+	display: none;
+}
+
+.registrando {
+	width: 400px;
+	margin-top: 10px;
+}
+
+.texto-registro {
+	margin-top: 10px;
+	color: #333333;
+}
+
+.envio-de-registro {
+	margin-top: 10px;
+	background: #006699;
+	color: #fff;
+}
+
+.envio-de-registro:hover {
+	background: #0066ff;
+}
+
+.texto-faq {
+	padding: 10px;
+	border: 2px solid #ccc;
+	margin-top: 10px;
+	color: #333;
+}
